@@ -1,4 +1,4 @@
-# bank-loan-analysis
+# bank-loan-analysis-sql
 
 This is analysis of bank loan details
 
